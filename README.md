@@ -1,3 +1,3 @@
-# monstra-email
+# Monstra Email Template
 
 Responsive email template
